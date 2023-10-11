@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - enemy
+  - Wall
+  - light
+  - freeformlight
+  - water
+  - slope
+  - canvas
+  - onewayplatform
+  - player
+  - ladder
+  - liftdown
+  - liftup
+  - axe
+  - throwaxefrom
+  - trap
+  - brittle
+  - pivot
+  - platform
+  - trigger1
+  - trigger2
+  - dead
+  - virtualcam
+  - camFollow
+  - enemy patrol trigger
+  - pistol pivot
+  - bat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - ladder
+  - slope
+  - enemy
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
